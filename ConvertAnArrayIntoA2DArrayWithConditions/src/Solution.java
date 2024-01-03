@@ -9,7 +9,7 @@ public class Solution {
                 max = c;
         }
         int[] arr = new int[max];
-        List<List<Integer>> result = new ArrayList()<>();
+        List<List<Integer>> result = new ArrayList<>();
         List<Integer> sub = new ArrayList<>();
         result.add(sub);
         int index = 0;
