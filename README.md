@@ -1,9 +1,9 @@
 # LeetCode Solutions 
 
-    This repository contains solutions to algorithmic problems I have solved on the LeetCode platform. For each problem, there is 
-    a file that includes its solution and, if necessary, explanations. It's important to note that the solutions provided for each 
-    problem may not represent the most optimized or fastest solutions. These solutions are entirely my own, reflecting my approach 
-    to solving the given problems.
+This repository contains solutions to algorithmic problems I have solved on the LeetCode platform. For each problem, there is 
+a file that includes its solution and, if necessary, explanations. It's important to note that the solutions provided for each 
+problem may not represent the most optimized or fastest solutions. These solutions are entirely my own, reflecting my approach 
+to solving the given problems.
 
 
 ### List of Questions
@@ -46,9 +46,9 @@
 36. [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
 
 
-# Licence
+# License
 
-    This repository is not bound by any license, and you are free to use the solutions provided here without any restrictions. Feel free 
-    to utilize these solutions in any context or project without the need for attribution. The absence of a license implies that there are 
-    no limitations on the use, modification, or distribution of the solutions presented in this repository. Enjoy coding and feel free to 
-    incorporate these solutions into your work!
+This repository is not bound by any license, and you are free to use the solutions provided here without any restrictions. Feel free 
+to utilize these solutions in any context or project without the need for attribution. The absence of a license implies that there are 
+no limitations on the use, modification, or distribution of the solutions presented in this repository. Enjoy coding and feel free to 
+incorporate these solutions into your work!
