@@ -44,6 +44,7 @@ to solving the given problems.
 34. [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
 35. [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)
 36. [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
+37. [Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 
 
 # License
