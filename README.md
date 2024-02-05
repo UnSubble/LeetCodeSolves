@@ -45,6 +45,7 @@ to solving the given problems.
 35. [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)
 36. [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
 37. [Sequential Digits](https://leetcode.com/problems/sequential-digits/)
+38. [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/)
 
 
 # License
