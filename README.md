@@ -47,6 +47,7 @@ to solving the given problems.
 37. [Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 38. [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/)
 39. [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
+40. [Building H2O](https://leetcode.com/problems/building-h2o/)
 
 
 # License
